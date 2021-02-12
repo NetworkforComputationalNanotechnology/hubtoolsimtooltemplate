@@ -1,4 +1,4 @@
-# hubtoolsimtooltemplate
+# nanoHUB-SimTool-template
 Repository template for SimTool HUBzero tool
 
 .keep files are present to force git to track initially empty directories.
